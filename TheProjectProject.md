@@ -1,4 +1,4 @@
-# Project Planning
+# The Project Project
 
 - Harry Boyd - hboyd255@gmail.com - 06/03/2024
 
@@ -21,11 +21,47 @@ hobby, your priority, aside from safety of course, should be to have fun. But if
 you want to strengthen your skills as a developer, you should consider planning
 your projects more thoroughly.)
 
+# Establishing the Project's Foundation.
+
+Choosing the initial location for your project is a critical first step. This
+foundational space, while subject to change as project requirements evolve,
+serves as the primary hub for development and storage. It's crucial to
+differentiate this foundational hub from the project's "homepage"—the
+public-facing platform where the project is showcased to the world.
+
+It's also essential to distinguish between the home of the project and the home
+of the product. The product is the result of the project. For example, when
+creating a website, the home of the project could be a git repository, and the
+home of the product could be a web server.
+
+The project's foundation, or its "home," may not encompass every component,
+particularly in projects that span both software and hardware. However, it
+should encapsulate the project's core, providing a centralized point of
+coordination and development.
+
+A project can have multiple homes, and it's important to define its primary
+home. For example, a project utilizing a git repository could either be based on
+the developer's local machine, or on a remote server. Defining this primary home
+depends on the project's requirements, for a solo project, the primary home
+could be the developer's local machine, but for a project with multiple
+contributors, the primary home should be a remote server.
+
+Possible homes for a project include:
+
+- A local directory.
+- A remote repository.
+- A physical folder.
+- A drawer in a desk.
+- A Room in a house. (for larger projects)
+
+Wherever the project's home is, it should have a clear place to store notes and
+documentation.
+
 ## Motivation, purpose and goal.
 
-Before stating to develop a project, it's important to have a clear
-understanding of what the project is attempting to achieve. This can be broken
-down into three parts, the motivation, the purpose and the goal.
+Before stating development, it's important to have a clear understanding of what
+the project is attempting to achieve. This can be broken down into three parts,
+the motivation, the purpose and the goal.
 
 The motivation describes why the project exists, what problem the project is
 trying to solve, or what concept is the project trying to prove.
@@ -63,3 +99,13 @@ For my battery server project,
 I would research existing battery monitoring systems, and see if there are any
 that I could contribute to. If there are none that fit my needs, then I would
 start planning my project.
+
+## High level functionality outline
+
+## Implementation plan
+
+## Testing plan
+
+## Documentation plan
+
+## Version control
