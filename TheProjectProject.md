@@ -21,7 +21,7 @@ hobby, your priority, aside from safety of course, should be to have fun. But if
 you want to strengthen your skills as a developer, you should consider planning
 your projects more thoroughly.)
 
-# Establishing the Project's Foundation.
+## Establishing the Project's Foundation.
 
 Choosing the initial location for your project is a critical first step. This
 foundational space, while subject to change as project requirements evolve,
